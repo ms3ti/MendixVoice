@@ -48,3 +48,6 @@ Este vídeo mostra como criar uma conta no RetellAI (é gratuito e fácil). Conf
   ]
 }
 ```
+
+Vídeo de configuração:
+https://youtu.be/YG79zEUgFPA
